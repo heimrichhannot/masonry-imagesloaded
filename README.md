@@ -1,5 +1,7 @@
 # imagesLoaded
 
+> Abandoned! See [heimrichhannot-contao-components/imagesloaded](https://github.com/heimrichhannot-contao-components/imagesloaded) instead!
+
 <p class="tagline">JavaScript is all like "You images done yet or what?"</p>
 
 [imagesloaded.desandro.com](http://imagesloaded.desandro.com)
